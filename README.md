@@ -1,0 +1,1 @@
+# Semantic_Spotter_AI_Project_GenAI
